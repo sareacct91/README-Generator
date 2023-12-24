@@ -4,6 +4,8 @@
 
 This application will generate a professional README.md file from the information provided by the user.
 
+[Video Submission](https://www.youtube.com/watch?v=NnuHZ-Hj9rM)
+
 ## Table of Contents
 
 - [Installation](#installation)
